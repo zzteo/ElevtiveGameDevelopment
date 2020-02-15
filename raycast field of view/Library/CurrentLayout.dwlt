@@ -71,7 +71,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 877, y: 494}
   m_MaxSize: {x: 16002, y: 14044}
   vertical: 0
-  controlID: 137
+  controlID: 12
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -407,9 +407,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 8efbffff
+      m_SelectedIDs: 342e0000
+      m_LastClickedID: 11828
+      m_ExpandedIDs: 8efbffffe82d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -469,9 +469,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -25.60212, y: -49.540802, z: 43.688873}
+    m_Target: {x: -10.714147, y: -65.172035, z: 27.472013}
     speed: 2
-    m_Value: {x: -25.60212, y: -49.540802, z: 43.688873}
+    m_Value: {x: -10.714147, y: -65.172035, z: 27.472013}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -500,13 +500,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.36566517, y: -0.2554475, z: 0.10515609, w: 0.8888391}
+    m_Target: {x: -0.51650554, y: 0.17965467, z: -0.111944415, w: -0.8297483}
     speed: 2
-    m_Value: {x: 0.3656547, y: -0.2554402, z: 0.10515308, w: 0.8888137}
+    m_Value: {x: -0.51648813, y: 0.17964861, z: -0.11194064, w: -0.82972026}
   m_Size:
-    m_Target: 88.640076
+    m_Target: 89.67285
     speed: 2
-    m_Value: 88.640076
+    m_Value: 89.67285
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -569,19 +569,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 72
   m_LastFolders:
-  - Assets
+  - Assets/Prefabs
   m_LastFoldersGridSize: 72
-  m_LastProjectPath: E:\Unity games\raycast field of view
+  m_LastProjectPath: E:\GitHub\ElevtiveGameDevelopment\raycast field of view
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 062b0000
-    m_LastClickedID: 11014
+    m_SelectedIDs: 2e2b0000
+    m_LastClickedID: 11054
     m_ExpandedIDs: 00000000062b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0

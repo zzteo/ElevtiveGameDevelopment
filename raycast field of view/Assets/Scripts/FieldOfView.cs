@@ -38,11 +38,12 @@ public class FieldOfView : MonoBehaviour
             if (Physics.Raycast(transform.position, b, out hit, visionRange) && dot > FOV && hit.transform.tag == "Target")
             {
                 //======Put what you want to happen if a target is in it's field of view here=======================
-
                 //==================================================================================================
                 Debug.Log("hit" + other.name);
                 Debug.DrawRay(transform.position, b * hit.distance, Color.green, 0.1f);
             } 
-        }     
+        }   
+        
+        //detects walls like a cross, moves parralel to it if it touches another corner, turn and camp for a bit.
     }
 }
