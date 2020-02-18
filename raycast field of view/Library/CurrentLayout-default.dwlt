@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 876, y: 492}
   m_MaxSize: {x: 16001, y: 14042}
   vertical: 1
-  controlID: 135
+  controlID: 141
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 876, y: 492}
   m_MaxSize: {x: 16001, y: 14042}
   vertical: 0
-  controlID: 136
+  controlID: 142
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -450,9 +450,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -417.56934, y: -16.244444, z: 1300.4318}
+    m_Target: {x: -2.697746, y: 11.624498, z: -18.91774}
     speed: 2
-    m_Value: {x: -417.56934, y: -16.244444, z: 1300.4318}
+    m_Value: {x: -2.697746, y: 11.624498, z: -18.91774}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -498,13 +498,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.13004658, y: -0.076665156, z: 0.010086689, w: -0.9884911}
+    m_Target: {x: -0.16398628, y: -0.0821709, z: 0.013709256, w: -0.982943}
     speed: 2
-    m_Value: {x: -0.13003092, y: -0.078147575, z: 0.010281717, w: -0.9883721}
+    m_Value: {x: -0.1639856, y: -0.08217056, z: 0.0137092, w: -0.9829389}
   m_Size:
-    m_Target: 58.807304
+    m_Target: 3.458212
     speed: 2
-    m_Value: 61.57833
+    m_Value: 3.458212
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -648,9 +648,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: a2e4ffffb8e4ffff10e5ffff22e5ffff7ae5ffff34f8ffff9635000084360000d4360000f0360000f4430000
+      m_SelectedIDs: fe380000
+      m_LastClickedID: 14590
+      m_ExpandedIDs: 78f9ffffdafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -713,34 +713,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/HealthSystem/Prefabs
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/HealthSystem/Prefabs
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\GitHub\ElevtiveGameDevelopment\raycast field of view
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46370000
-    m_LastClickedID: 14150
-    m_ExpandedIDs: 000000003c37000000ca9a3b
+    m_SelectedIDs: e0360000
+    m_LastClickedID: 14048
+    m_ExpandedIDs: 00000000d2360000d836000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: HealthSystem
-      m_OriginalName: HealthSystem
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 14148
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
@@ -754,7 +754,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c370000
+    m_ExpandedIDs: 00000000d2360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
