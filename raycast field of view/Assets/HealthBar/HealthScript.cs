@@ -9,12 +9,12 @@ public class HealthScript : MonoBehaviour
     public PlayerScript playerScript;
     public GameObject player;
 
-    public void SetMaxHealth(int health)
+    public void SetMaxHealth(float health)
     {
         slider.maxValue = health;
         slider.value = health;
     }
-    public void SetHealth(int health)
+    public void SetHealth(float health)
     {
         slider.value = health;
     }
